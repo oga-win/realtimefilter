@@ -1,0 +1,24 @@
+.search-box{
+    display: flex;
+    list-style: none;
+
+}
+
+.search-box > li {
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 10px;
+}
+
+.search-box > li > h4{
+    margin: 0;
+}
+
+.search-box img{
+    width: 150px;
+    height: 100px;
+}
+
+.search-box .hidden{
+    display: none;
+}
